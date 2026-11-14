@@ -13,9 +13,25 @@ public class controls : MonoBehaviour
     void Start()
     {}
 
+    private void OnCollisionEnter(Collider collision)
+    {
+        if(collision.CompareTag("Enemy"))
+        {
+            if(collision.gameObject.TryGetComponent<enemyType>(out data))
+            {
+                health -= data.damage;
+            }
+        }
+    }
+
     // Update is called once per frame
     void Update()
     {
+        if (health <= 0)
+        {
+            Debug.Log("Player dead!");
+            Destroy(gameObject);
+        }
         if (moveable)
         {
             float moveX = Input.GetAxisRaw("Horizontal");
