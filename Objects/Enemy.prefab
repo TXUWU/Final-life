@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3222823899968304635}
   - component: {fileID: 3679405153983784202}
   - component: {fileID: 2378080832384145948}
-  - component: {fileID: 1177087536930010197}
+  - component: {fileID: 6068211104356687485}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -103,11 +103,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d854dfc884229246a823cb0e46661ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
-  reload: 5
   player: {fileID: 0}
-  detectionDistance: 120
-  speed: 10
+  enemyData: {fileID: 11400000, guid: 97dbea25e516fba4a96db47bcfb6493b, type: 2}
+  currentHealth: 0
+  moveSet: {fileID: 6068211104356687485}
+  move1: pounce
+  reload1: 5
+  move2: heal
+  reload2: 12
 --- !u!58 &3679405153983784202
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -171,7 +174,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1177087536930010197
+--- !u!114 &6068211104356687485
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -180,7 +183,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 2440152665291811543}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a719bc33bae86d46bfb3d8effe97190, type: 3}
+  m_Script: {fileID: 11500000, guid: de0b52ec6731437419570d4511990b44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 10

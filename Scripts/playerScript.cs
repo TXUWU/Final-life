@@ -6,7 +6,6 @@ public class playerScript : MonoBehaviour
     public bool moveable = true;
     public float speed = 8f;
     public float health = 100f;
-    [SerializeField] private int invincibilityFrames = 0;
     [SerializeField] private int incapacitationTime = 0;
 
     public float currentHealth;
