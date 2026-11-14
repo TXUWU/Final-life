@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 988acb7e1f3b2134eb5fddca86cfe1a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1854859456946380244
+    second: CowthingSpriteSheet_0
+  - first:
+      213: -8563950260340694406
+    second: CowthingSpriteSheet_1
+  - first:
+      213: -4803296394939806843
+    second: CowthingSpriteSheet_2
+  - first:
+      213: -8393147007392585519
+    second: CowthingSpriteSheet_3
+  - first:
+      213: -6345858212136531701
+    second: CowthingSpriteSheet_4
+  - first:
+      213: 4613247916469006444
+    second: CowthingSpriteSheet_5
+  - first:
+      213: -3095143424130676686
+    second: CowthingSpriteSheet_6
+  - first:
+      213: 3153906506045938206
+    second: CowthingSpriteSheet_7
+  - first:
+      213: 7602871499527046924
+    second: CowthingSpriteSheet_8
+  - first:
+      213: 3864959538788052318
+    second: CowthingSpriteSheet_9
+  - first:
+      213: 6504388176105715295
+    second: CowthingSpriteSheet_10
+  - first:
+      213: 2423852387219254638
+    second: CowthingSpriteSheet_11
+  - first:
+      213: -8907990861117968565
+    second: CowthingSpriteSheet_12
+  - first:
+      213: 4323842694229077165
+    second: CowthingSpriteSheet_13
+  - first:
+      213: -3887853615677441218
+    second: CowthingSpriteSheet_14
+  - first:
+      213: -8067852707644165666
+    second: CowthingSpriteSheet_15
+  - first:
+      213: 3301493637141204241
+    second: CowthingSpriteSheet_16
+  - first:
+      213: 9172476662026341356
+    second: CowthingSpriteSheet_17
+  - first:
+      213: 7306262662566543173
+    second: CowthingSpriteSheet_18
+  - first:
+      213: 1551087603095442829
+    second: CowthingSpriteSheet_19
+  - first:
+      213: -6019874424493802541
+    second: CowthingSpriteSheet_20
+  - first:
+      213: 3461372507663288316
+    second: CowthingSpriteSheet_21
+  - first:
+      213: -6182244402026590195
+    second: CowthingSpriteSheet_22
+  - first:
+      213: -589070571773812891
+    second: CowthingSpriteSheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7199
+        width: 610
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd109f39d8cdb910800000000000000
+      internalID: 1854859456946380244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 7199
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72674aac9cb62980800000000000000
+      internalID: -8563950260340694406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 7199
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bc2b4b063475db0800000000000000
+      internalID: -4803296394939806843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6303
+        width: 738
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d86bbcf34d858b80800000000000000
+      internalID: -8393147007392585519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 6303
+        width: 770
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b094b9ee39bfee7a0800000000000000
+      internalID: -6345858212136531701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 6335
+        width: 738
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6032f9b98c850040800000000000000
+      internalID: 4613247916469006444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5151
+        width: 610
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2380ecb5477db05d0800000000000000
+      internalID: -3095143424130676686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 5151
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a59a3d14de4cb20800000000000000
+      internalID: 3153906506045938206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 5183
+        width: 546
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07404ad853d28960800000000000000
+      internalID: 7602871499527046924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4127
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d28bc193813a530800000000000000
+      internalID: 3864959538788052318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 4127
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56380e959a344a50800000000000000
+      internalID: 6504388176105715295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 4159
+        width: 578
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6daf2077e043a120800000000000000
+      internalID: 2423852387219254638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3231
+        width: 738
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f23a42285706480800000000000000
+      internalID: -8907990861117968565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 3231
+        width: 770
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac213e8500610c30800000000000000
+      internalID: 4323842694229077165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 3231
+        width: 834
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bf3da3cb19b0ac0800000000000000
+      internalID: -3887853615677441218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2111
+        width: 546
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed132bc25ba390090800000000000000
+      internalID: -8067852707644165666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 2111
+        width: 482
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d830e88f241dd20800000000000000
+      internalID: 3301493637141204241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2111
+        width: 546
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb04ae1dee2b4f70800000000000000
+      internalID: 9172476662026341356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1055
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f7afd6e2f056560800000000000000
+      internalID: 7306262662566543173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1087
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85140ef4f1968510800000000000000
+      internalID: 1551087603095442829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1055
+        width: 578
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db76970b1c157ca0800000000000000
+      internalID: -6019874424493802541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 738
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7c292e4f3490030800000000000000
+      internalID: 3461372507663288316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 159
+        width: 770
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00de86a871443aa0800000000000000
+      internalID: -6182244402026590195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowthingSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 191
+        width: 770
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f19cd9f6333d7f0800000000000000
+      internalID: -589070571773812891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

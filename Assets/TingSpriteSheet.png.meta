@@ -1,0 +1,1217 @@
+fileFormatVersion: 2
+guid: 7931033d8ba485746853daa80cd6f2cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4976847415880304639
+    second: TingSpriteSheet_0
+  - first:
+      213: -7920884892745140001
+    second: TingSpriteSheet_1
+  - first:
+      213: -6879021303612330076
+    second: TingSpriteSheet_2
+  - first:
+      213: -8067747320251900915
+    second: TingSpriteSheet_3
+  - first:
+      213: -3788403231046268144
+    second: TingSpriteSheet_4
+  - first:
+      213: 5420420369436368109
+    second: TingSpriteSheet_5
+  - first:
+      213: 2996375234320676556
+    second: TingSpriteSheet_6
+  - first:
+      213: 7772671219745629350
+    second: TingSpriteSheet_7
+  - first:
+      213: -322243513930022181
+    second: TingSpriteSheet_8
+  - first:
+      213: 8567797427474253122
+    second: TingSpriteSheet_9
+  - first:
+      213: -8338936747049816237
+    second: TingSpriteSheet_10
+  - first:
+      213: 2672940817045092680
+    second: TingSpriteSheet_11
+  - first:
+      213: -7833150470948752163
+    second: TingSpriteSheet_12
+  - first:
+      213: -2406024563629481890
+    second: TingSpriteSheet_13
+  - first:
+      213: 8153102089920474598
+    second: TingSpriteSheet_14
+  - first:
+      213: 1202432917958767071
+    second: TingSpriteSheet_15
+  - first:
+      213: -8228649027709282414
+    second: TingSpriteSheet_16
+  - first:
+      213: 485966117051694946
+    second: TingSpriteSheet_17
+  - first:
+      213: -1266877898299304808
+    second: TingSpriteSheet_18
+  - first:
+      213: -8584943082181538457
+    second: TingSpriteSheet_19
+  - first:
+      213: 5819871259139595645
+    second: TingSpriteSheet_20
+  - first:
+      213: -17669444549257603
+    second: TingSpriteSheet_21
+  - first:
+      213: -4079249496247065975
+    second: TingSpriteSheet_22
+  - first:
+      213: 6343792352203064208
+    second: TingSpriteSheet_23
+  - first:
+      213: 8990924588187562873
+    second: TingSpriteSheet_24
+  - first:
+      213: 4558097788967337217
+    second: TingSpriteSheet_25
+  - first:
+      213: 7836381375155781744
+    second: TingSpriteSheet_26
+  - first:
+      213: 7867535391781569929
+    second: TingSpriteSheet_27
+  - first:
+      213: 5292364730919838376
+    second: TingSpriteSheet_28
+  - first:
+      213: -6204270274522106279
+    second: TingSpriteSheet_29
+  - first:
+      213: -150449762110487085
+    second: TingSpriteSheet_30
+  - first:
+      213: -2242313526038742553
+    second: TingSpriteSheet_31
+  - first:
+      213: -5827725153625049033
+    second: TingSpriteSheet_32
+  - first:
+      213: 4997746895601189407
+    second: TingSpriteSheet_33
+  - first:
+      213: 472028970394646393
+    second: TingSpriteSheet_34
+  - first:
+      213: 5134387069210745282
+    second: TingSpriteSheet_35
+  - first:
+      213: -6531718806344683157
+    second: TingSpriteSheet_36
+  - first:
+      213: 1478222645912616243
+    second: TingSpriteSheet_37
+  - first:
+      213: -1150933405886679925
+    second: TingSpriteSheet_38
+  - first:
+      213: 3819560548697786746
+    second: TingSpriteSheet_39
+  - first:
+      213: 1551258592996284697
+    second: TingSpriteSheet_40
+  - first:
+      213: -6077164789022771098
+    second: TingSpriteSheet_41
+  - first:
+      213: 6506829343730766358
+    second: TingSpriteSheet_42
+  - first:
+      213: 4323852231509403656
+    second: TingSpriteSheet_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TingSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10335
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108322bc4afaeeab0800000000000000
+      internalID: -4976847415880304639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 10335
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8fa2d182d531290800000000000000
+      internalID: -7920884892745140001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 10367
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afa7db229ec880a0800000000000000
+      internalID: -6879021303612330076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 10367
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c96c69e8a990090800000000000000
+      internalID: -8067747320251900915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9311
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b8b8b4553ec6bc0800000000000000
+      internalID: -3788403231046268144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 9311
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decdb8d7b93393b40800000000000000
+      internalID: 5420420369436368109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 9343
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6367f6663459920800000000000000
+      internalID: 2996375234320676556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 9343
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a427d00b431edb60800000000000000
+      internalID: 7772671219745629350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8287
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2070d3b39278bf0800000000000000
+      internalID: -322243513930022181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 8351
+        width: 834
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245cb1cbd5ee6e670800000000000000
+      internalID: 8567797427474253122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 8319
+        width: 738
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe4abc535264c80800000000000000
+      internalID: -8338936747049816237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 8287
+        width: 674
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8497d91e281381520800000000000000
+      internalID: 2672940817045092680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 7295
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd47ae2062f0b4390800000000000000
+      internalID: -7833150470948752163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 7263
+        width: 738
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50200438651c9ed0800000000000000
+      internalID: -2406024563629481890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 7263
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed643f5723a52170800000000000000
+      internalID: 8153102089920474598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 7263
+        width: 642
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd13b2d3e56efa010800000000000000
+      internalID: 1202432917958767071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 6271
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297560a7e47fdcd80800000000000000
+      internalID: -8228649027709282414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 6239
+        width: 738
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ffdb3db9f7eb600800000000000000
+      internalID: 485966117051694946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 6239
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894931283452b6ee0800000000000000
+      internalID: -1266877898299304808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 6239
+        width: 642
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d4f9170c72cd880800000000000000
+      internalID: -8584943082181538457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5279
+        width: 738
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d558f331654c050800000000000000
+      internalID: 5819871259139595645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 5279
+        width: 898
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76534adbb931cff0800000000000000
+      internalID: -17669444549257603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 5279
+        width: 930
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982a00a22389367c0800000000000000
+      internalID: -4079249496247065975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 5279
+        width: 770
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09347e1988da90850800000000000000
+      internalID: 6343792352203064208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4191
+        width: 898
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973be39e64e26cc70800000000000000
+      internalID: 8990924588187562873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 4191
+        width: 738
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d34ea0acd914f30800000000000000
+      internalID: 4558097788967337217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 4191
+        width: 898
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c5ae775b60cc60800000000000000
+      internalID: 7836381375155781744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 4223
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98544fc31c91f2d60800000000000000
+      internalID: 7867535391781569929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3231
+        width: 738
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26840cea1427940800000000000000
+      internalID: 5292364730919838376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 3231
+        width: 898
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95638949e0106e9a0800000000000000
+      internalID: -6204270274522106279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 3231
+        width: 930
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5ccdc0dbe79edf0800000000000000
+      internalID: -150449762110487085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 3231
+        width: 770
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e938657ab3b1e0e0800000000000000
+      internalID: -2242313526038742553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2207
+        width: 674
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738f19179d2cf1fa0800000000000000
+      internalID: -5827725153625049033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2207
+        width: 674
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ce9582509b5540800000000000000
+      internalID: 4997746895601189407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2207
+        width: 770
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977f01009dbfc8600800000000000000
+      internalID: 472028970394646393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2175
+        width: 674
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c95aa716d1014740800000000000000
+      internalID: 5134387069210745282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1183
+        width: 674
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6136172a5caa55a0800000000000000
+      internalID: -6531718806344683157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1183
+        width: 674
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3f8c1aa3b38410800000000000000
+      internalID: 1478222645912616243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 1183
+        width: 770
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b847efd4a201700f0800000000000000
+      internalID: -1150933405886679925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1151
+        width: 674
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a794a37051ec10530800000000000000
+      internalID: 3819560548697786746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 706
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919d05ea87d278510800000000000000
+      internalID: 1551258592996284697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 159
+        width: 706
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66839c492d299aba0800000000000000
+      internalID: -6077164789022771098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 95
+        width: 770
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612192f30d6ec4a50800000000000000
+      internalID: 6506829343730766358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TingSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 95
+        width: 706
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808e56022b8610c30800000000000000
+      internalID: 4323852231509403656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 95fb62446b8272649938f93814212ae9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7026708580909287079
+    second: WaterAttackSpriteSheet_0
+  - first:
+      213: 1510181934504378386
+    second: WaterAttackSpriteSheet_1
+  - first:
+      213: -6707941827965784339
+    second: WaterAttackSpriteSheet_2
+  - first:
+      213: -3908186378322318324
+    second: WaterAttackSpriteSheet_3
+  - first:
+      213: -2978861477953347434
+    second: WaterAttackSpriteSheet_4
+  - first:
+      213: -3328768429561630891
+    second: WaterAttackSpriteSheet_5
+  - first:
+      213: 2846238350606249932
+    second: WaterAttackSpriteSheet_6
+  - first:
+      213: -8061552284940256469
+    second: WaterAttackSpriteSheet_7
+  - first:
+      213: 2913686434026624858
+    second: WaterAttackSpriteSheet_8
+  - first:
+      213: -5555043216211265012
+    second: WaterAttackSpriteSheet_9
+  - first:
+      213: 1487945840089192983
+    second: WaterAttackSpriteSheet_10
+  - first:
+      213: -6831936414162883766
+    second: WaterAttackSpriteSheet_11
+  - first:
+      213: -2177195675876200255
+    second: WaterAttackSpriteSheet_12
+  - first:
+      213: 6654945589485142462
+    second: WaterAttackSpriteSheet_13
+  - first:
+      213: 7857932301230287395
+    second: WaterAttackSpriteSheet_14
+  - first:
+      213: 7965638559348332547
+    second: WaterAttackSpriteSheet_15
+  - first:
+      213: 8730284018709590033
+    second: WaterAttackSpriteSheet_16
+  - first:
+      213: -4374631205956115801
+    second: WaterAttackSpriteSheet_17
+  - first:
+      213: -5779912521039159307
+    second: WaterAttackSpriteSheet_18
+  - first:
+      213: -5161356388117770878
+    second: WaterAttackSpriteSheet_19
+  - first:
+      213: 2701315152980231961
+    second: WaterAttackSpriteSheet_20
+  - first:
+      213: 3808705950313670917
+    second: WaterAttackSpriteSheet_21
+  - first:
+      213: -4946947673306172043
+    second: WaterAttackSpriteSheet_22
+  - first:
+      213: 5373988103943947919
+    second: WaterAttackSpriteSheet_23
+  - first:
+      213: -4785433658959314551
+    second: WaterAttackSpriteSheet_24
+  - first:
+      213: -6679148062259367715
+    second: WaterAttackSpriteSheet_25
+  - first:
+      213: -5338411360776001947
+    second: WaterAttackSpriteSheet_26
+  - first:
+      213: -6860954065761807806
+    second: WaterAttackSpriteSheet_27
+  - first:
+      213: 602652686629446562
+    second: WaterAttackSpriteSheet_28
+  - first:
+      213: 379128922738102796
+    second: WaterAttackSpriteSheet_29
+  - first:
+      213: -3044054897998850594
+    second: WaterAttackSpriteSheet_30
+  - first:
+      213: 3251400581740106039
+    second: WaterAttackSpriteSheet_31
+  - first:
+      213: 3724210110974861783
+    second: WaterAttackSpriteSheet_32
+  - first:
+      213: -3303348158835833826
+    second: WaterAttackSpriteSheet_33
+  - first:
+      213: 7815171270424771330
+    second: WaterAttackSpriteSheet_34
+  - first:
+      213: 4092221453193473537
+    second: WaterAttackSpriteSheet_35
+  - first:
+      213: -5182838007843444828
+    second: WaterAttackSpriteSheet_36
+  - first:
+      213: 3643328513918536422
+    second: WaterAttackSpriteSheet_37
+  - first:
+      213: 8733942519756959070
+    second: WaterAttackSpriteSheet_38
+  - first:
+      213: -6054661218663595091
+    second: WaterAttackSpriteSheet_39
+  - first:
+      213: 2621015008869233615
+    second: WaterAttackSpriteSheet_40
+  - first:
+      213: 2496125331784139114
+    second: WaterAttackSpriteSheet_41
+  - first:
+      213: 4929279932170321898
+    second: WaterAttackSpriteSheet_42
+  - first:
+      213: 6772804197732721517
+    second: WaterAttackSpriteSheet_43
+  - first:
+      213: 1497734436134414311
+    second: WaterAttackSpriteSheet_44
+  - first:
+      213: -2301274540444499905
+    second: WaterAttackSpriteSheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 4959
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68949a932e38160800000000000000
+      internalID: 7026708580909287079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4543
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108858d77e35f410800000000000000
+      internalID: 1510181934504378386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4511
+        width: 354
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee6d1a927a98e2a0800000000000000
+      internalID: -6707941827965784339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 4543
+        width: 418
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ce314023553c9c0800000000000000
+      internalID: -3908186378322318324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 4543
+        width: 610
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ee7bb445f8a6d0800000000000000
+      internalID: -2978861477953347434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3263
+        width: 482
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fa178ffb6ddc1d0800000000000000
+      internalID: -3328768429561630891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3647
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfaaf923bedf7720800000000000000
+      internalID: 2846238350606249932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3519
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bb5e5a8ec9f1090800000000000000
+      internalID: -8061552284940256469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 3551
+        width: 290
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571807df5e7f6820800000000000000
+      internalID: 2913686434026624858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3551
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab8c170a588e2b0800000000000000
+      internalID: -5555043216211265012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3519
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a598babde36a410800000000000000
+      internalID: 1487945840089192983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3551
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be3c947061031a0800000000000000
+      internalID: -6831936414162883766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3519
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f1ec611c09c1e0800000000000000
+      internalID: -2177195675876200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3455
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb180d411cd1b5c50800000000000000
+      internalID: 6654945589485142462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 3391
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a26eb7bcbfc0d60800000000000000
+      internalID: 7857932301230287395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3455
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3089c13e012ab8e60800000000000000
+      internalID: 7965638559348332547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3359
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110747b5f03382970800000000000000
+      internalID: 8730284018709590033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 3391
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a5a198103a43c0800000000000000
+      internalID: -4374631205956115801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3359
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd0a67f20a9cfa0800000000000000
+      internalID: -5779912521039159307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 3327
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0c0706bd2f58b0800000000000000
+      internalID: -5161356388117770878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2559
+        width: 258
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91744c7c1dffc7520800000000000000
+      internalID: 2701315152980231961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2751
+        width: 354
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ec56e1ed3bd430800000000000000
+      internalID: 3808705950313670917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2175
+        width: 450
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f32a1d49e85bb0800000000000000
+      internalID: -4946947673306172043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 2399
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8601ca35bd349a40800000000000000
+      internalID: 5373988103943947919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2111
+        width: 258
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98148850179b69db0800000000000000
+      internalID: -4785433658959314551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 2303
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0baca9936ee43a0800000000000000
+      internalID: -6679148062259367715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 2271
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5666908c6272ae5b0800000000000000
+      internalID: -5338411360776001947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 2175
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242def9c0aef8c0a0800000000000000
+      internalID: -6860954065761807806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1919
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3ab7dec6d0d5800800000000000000
+      internalID: 602652686629446562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 1535
+        width: 610
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0291eb1fbfe24500800000000000000
+      internalID: 379128922738102796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1471
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed59df7c23851c5d0800000000000000
+      internalID: -3044054897998850594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1439
+        width: 354
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7311e193a9b4f1d20800000000000000
+      internalID: 3251400581740106039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 1503
+        width: 418
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1239d3d5d0fa330800000000000000
+      internalID: 3724210110974861783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 191
+        width: 482
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e144627f9562822d0800000000000000
+      internalID: -3303348158835833826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 479
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bb1882dd0157c60800000000000000
+      internalID: 7815171270424771330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 351
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e64dbeabd7ac830800000000000000
+      internalID: 4092221453193473537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7291eaa4cd218b0800000000000000
+      internalID: -5182838007843444828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea8a20faf3bf8230800000000000000
+      internalID: 3643328513918536422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d2bc28272353970800000000000000
+      internalID: 8733942519756959070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3093a53b589fba0800000000000000
+      internalID: -6054661218663595091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 223
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc33e9a8347bf5420800000000000000
+      internalID: 2621015008869233615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6109d3a3c404a220800000000000000
+      internalID: 2496125331784139114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 191
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef397b5bf1586440800000000000000
+      internalID: 4929279932170321898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 223
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632223b885ddfd50800000000000000
+      internalID: 6772804197732721517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e769a9c88509c410800000000000000
+      internalID: 1497734436134414311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterAttackSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c7268ffa3010e0800000000000000
+      internalID: -2301274540444499905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

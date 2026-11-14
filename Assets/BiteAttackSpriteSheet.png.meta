@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: afc739ff8ef57674ab9d956b3aac70b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5950772700896838730
+    second: BiteAttackSpriteSheet_0
+  - first:
+      213: -3033196202272748187
+    second: BiteAttackSpriteSheet_1
+  - first:
+      213: 5793687850392900104
+    second: BiteAttackSpriteSheet_2
+  - first:
+      213: -2748892696925963691
+    second: BiteAttackSpriteSheet_3
+  - first:
+      213: 9124054254050592522
+    second: BiteAttackSpriteSheet_4
+  - first:
+      213: 3758713136949822407
+    second: BiteAttackSpriteSheet_5
+  - first:
+      213: 231066579803219858
+    second: BiteAttackSpriteSheet_6
+  - first:
+      213: 593410126875716677
+    second: BiteAttackSpriteSheet_7
+  - first:
+      213: -7166858136022174424
+    second: BiteAttackSpriteSheet_8
+  - first:
+      213: 1473733016327018045
+    second: BiteAttackSpriteSheet_9
+  - first:
+      213: 4781318585786388708
+    second: BiteAttackSpriteSheet_10
+  - first:
+      213: 9101397338853442235
+    second: BiteAttackSpriteSheet_11
+  - first:
+      213: -4137860644377779600
+    second: BiteAttackSpriteSheet_12
+  - first:
+      213: 2664542287368737945
+    second: BiteAttackSpriteSheet_13
+  - first:
+      213: 8084886393864120400
+    second: BiteAttackSpriteSheet_14
+  - first:
+      213: -4191842277217595921
+    second: BiteAttackSpriteSheet_15
+  - first:
+      213: -8879455210929983203
+    second: BiteAttackSpriteSheet_16
+  - first:
+      213: 3856009890735783686
+    second: BiteAttackSpriteSheet_17
+  - first:
+      213: -5524834994610309926
+    second: BiteAttackSpriteSheet_18
+  - first:
+      213: -8190043487494077011
+    second: BiteAttackSpriteSheet_19
+  - first:
+      213: -7827006881996511686
+    second: BiteAttackSpriteSheet_20
+  - first:
+      213: 1101685918740333429
+    second: BiteAttackSpriteSheet_21
+  - first:
+      213: -9060288523280111381
+    second: BiteAttackSpriteSheet_22
+  - first:
+      213: 8804344440202971414
+    second: BiteAttackSpriteSheet_23
+  - first:
+      213: -1874412161718330683
+    second: BiteAttackSpriteSheet_24
+  - first:
+      213: -6089225452999515874
+    second: BiteAttackSpriteSheet_25
+  - first:
+      213: -5907919688205464181
+    second: BiteAttackSpriteSheet_26
+  - first:
+      213: -1376429738185741338
+    second: BiteAttackSpriteSheet_27
+  - first:
+      213: -6566685936355234054
+    second: BiteAttackSpriteSheet_28
+  - first:
+      213: -7611678005954849077
+    second: BiteAttackSpriteSheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2527
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444c003e34659250800000000000000
+      internalID: 5950772700896838730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 2495
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d0875ef1ce7e5d0800000000000000
+      internalID: -3033196202272748187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2527
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8025a265760576050800000000000000
+      internalID: 5793687850392900104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2559
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aff0a08a8f9d9d0800000000000000
+      internalID: -2748892696925963691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 2527
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07c314b0072f9e70800000000000000
+      internalID: 9124054254050592522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 2303
+        width: 674
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c30d7cfea1a92430800000000000000
+      internalID: 3758713136949822407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2239
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297a2a084d9e43300800000000000000
+      internalID: 231066579803219858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2207
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ceb8acd573c3800800000000000000
+      internalID: 593410126875716677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 2239
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b7c63f743a8c90800000000000000
+      internalID: -7166858136022174424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1471
+        width: 66
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36dfe3ce50c37410800000000000000
+      internalID: 1473733016327018045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1439
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e055c7dbe7aa5240800000000000000
+      internalID: 4781318585786388708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1567
+        width: 418
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28b0e88a8ae4e70800000000000000
+      internalID: 9101397338853442235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 1599
+        width: 418
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0722bc1daad5396c0800000000000000
+      internalID: -4137860644377779600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 1567
+        width: 418
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994de9fc71b5af420800000000000000
+      internalID: 2664542287368737945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5471
+        y: 1279
+        width: 290
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058e8a3f659433070800000000000000
+      internalID: 8084886393864120400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 1471
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed0bff78a593d5c0800000000000000
+      internalID: -4191842277217595921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1439
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11f681f786d5c480800000000000000
+      internalID: -8879455210929983203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1471
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ff2bbc09c438530800000000000000
+      internalID: 3856009890735783686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1151
+        width: 386
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4fa9f18d7d353b0800000000000000
+      internalID: -5524834994610309926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 1119
+        width: 386
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da50ae047de175e80800000000000000
+      internalID: -8190043487494077011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 1151
+        width: 386
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366f08c5b2e06390800000000000000
+      internalID: -7827006881996511686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57341909189f94f00800000000000000
+      internalID: 1101685918740333429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 447
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8275f6793634280800000000000000
+      internalID: -9060288523280111381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 479
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619cb76fe905f2a70800000000000000
+      internalID: 8804344440202971414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 511
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca5b1ae110ccf5e0800000000000000
+      internalID: -1874412161718330683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 479
+        width: 706
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1162bc66b9be7ba0800000000000000
+      internalID: -6089225452999515874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 255
+        width: 674
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d0af6585ad20ea0800000000000000
+      internalID: -5907919688205464181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 191
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eba72d1270f5ece0800000000000000
+      internalID: -1376429738185741338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 159
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe2ef3cee17ed4a0800000000000000
+      internalID: -6566685936355234054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BiteAttackSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 191
+        width: 706
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc658669e23ed5690800000000000000
+      internalID: -7611678005954849077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
