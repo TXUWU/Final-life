@@ -21,9 +21,9 @@ public class playerScript : MonoBehaviour
         GameObject other = collision.gameObject;
         if(other.CompareTag("Enemy"))
         {
-            if(other.TryGetComponent<enemyType>(out enemyType data))
+            if(other.TryGetComponent<enemyScript>(out enemyScript data))
             {
-                currentHealth -= data.damage;
+                currentHealth -= data.enemyData.damage;
                 // What Enemy hit it?
             }
         }
