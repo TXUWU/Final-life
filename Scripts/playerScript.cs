@@ -9,9 +9,13 @@ public class playerScript : MonoBehaviour
     [SerializeField] private int invincibilityFrames = 0;
     [SerializeField] private int incapacitationTime = 0;
 
+    public float currentHealth;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
-    {}
+    {
+        currentHealth = health;
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -22,7 +26,7 @@ public class playerScript : MonoBehaviour
             Debug.Log("Enemy touched!");
             if(other.TryGetComponent<enemyType>(out enemyType data))
             {
-                health -= data.damage;
+                currentHealth -= data.damage;
                 Debug.Log("Damage taken!");
             }
         }
@@ -31,7 +35,7 @@ public class playerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (health <= 0)
+        if (currentHealth <= 0)
         {
             Debug.Log("Player dead!");
             Destroy(gameObject);
