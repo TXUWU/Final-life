@@ -19,15 +19,12 @@ public class playerScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Something touched!");
         GameObject other = collision.gameObject;
         if(other.CompareTag("Enemy"))
         {
-            Debug.Log("Enemy touched!");
             if(other.TryGetComponent<enemyType>(out enemyType data))
             {
                 currentHealth -= data.damage;
-                Debug.Log("Damage taken!");
             }
         }
     }
