@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-public class controls : MonoBehaviour
+public class playerScript : MonoBehaviour
 {
     public bool moveable = true;
     public float speed = 8f;
@@ -13,13 +13,17 @@ public class controls : MonoBehaviour
     void Start()
     {}
 
-    private void OnCollisionEnter(Collider collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.CompareTag("Enemy"))
+        Debug.Log("Something touched!");
+        GameObject other = collision.gameObject;
+        if(other.CompareTag("Enemy"))
         {
-            if(collision.gameObject.TryGetComponent<enemyType>(out data))
+            Debug.Log("Enemy touched!");
+            if(other.TryGetComponent<enemyType>(out enemyType data))
             {
                 health -= data.damage;
+                Debug.Log("Damage taken!");
             }
         }
     }
