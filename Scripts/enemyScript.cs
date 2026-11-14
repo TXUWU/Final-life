@@ -24,8 +24,7 @@ public class enemyScript : MonoBehaviour
 
         if (distanceFinal < detectionDistance)
         {
-            Vector3 moveDirection = distance/Mathf.Sqrt(distanceFinal > 0.01f ? distanceFinal : 1);
-            transform.position += moveDirection * speed * Time.deltaTime;
+            transform.position = Vector3.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
         }
     }
 }
