@@ -25,6 +25,7 @@ public class playerScript : MonoBehaviour
             if(other.TryGetComponent<enemyType>(out enemyType data))
             {
                 currentHealth -= data.damage;
+                // What Enemy hit it?
             }
         }
     }
@@ -56,5 +57,6 @@ public class playerScript : MonoBehaviour
                 moveable = true;
             }
         }
+        // F is for Funny key
     }
 }

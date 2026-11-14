@@ -11,8 +11,13 @@ public class enemyScript : MonoBehaviour
     public float speed = 10f;
     
     private float CurrentReload = 0f;
+    private float currentHealth;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        currentHealth = health;
+    }
     IEnumerator Pounce()
     {
         Debug.Log("Pounce Start");
