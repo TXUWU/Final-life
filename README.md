@@ -5,5 +5,5 @@ This is a survival game where you're supposed to take damage and bounce back fro
 | Resolved | Bug |
 | --- | --- |
 | No | Enemies move slower than player even though their respective speeds are the same |
-| No | Upon player death, the log fills with reference errors |
+| Yes | Upon player death, the log fills with reference errors |
 | Yes | Enemies are no longer doing damage upon touching player |

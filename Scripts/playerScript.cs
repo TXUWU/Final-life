@@ -41,7 +41,6 @@ public class playerScript : MonoBehaviour
         if (currentHealth <= 0)
         {
             Debug.Log("Player dead!");
-            Destroy(gameObject);
         }
         if (moveable)
         {
