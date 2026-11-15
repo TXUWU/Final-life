@@ -10,7 +10,7 @@ public class enemyScript : MonoBehaviour
     private float CurrentReload1 = 0f;
     private float CurrentReload2 = 0f;
     public float currentHealth;
-    public MoveSet moveSet;
+    public moveSet moveSet;
     public string move1;
     public float reload1 = 5f;
     public string move2;
@@ -20,7 +20,7 @@ public class enemyScript : MonoBehaviour
     void Start()
     {
         currentHealth = enemyData.health;
-        moveSet = GetComponent<MoveSet>();
+        moveSet = GetComponent<moveSet>();
     }
 
     // Update is called once per frame

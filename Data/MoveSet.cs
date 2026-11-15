@@ -1,22 +1,15 @@
 using UnityEngine;
 using System.Collections;
 
-public class MoveSet : MonoBehaviour
+public class moveSet : MonoBehaviour
 {
     public void Pounce(Vector3 position)
     {
         IEnumerator executePounce()
         {
-            if (gameObject.CompareTag("Enemy"))
-            {
-                Vector3 playerPlace = position;
-                yield return new WaitForSeconds(0.5f);
-                transform.position = playerPlace;
-            }
-            else
-            {
-
-            }
+            Vector3 playerPlace = position;
+            yield return new WaitForSeconds(0.5f);
+            transform.position = playerPlace;
         }
         StartCoroutine(executePounce());
     }
@@ -31,6 +24,20 @@ public class MoveSet : MonoBehaviour
                 amountCheck += amount;
                 if (amountCheck > script.enemyData.health) {
                     script.currentHealth = script.enemyData.health;
+                }
+                else {
+                    script.currentHealth = amountCheck;
+                }
+            }
+        }        
+        else if (gameObject.CompareTag("Player"))
+        {
+            if(gameObject.TryGetComponent<playerScript>(out playerScript script))
+            {
+                float amountCheck = script.currentHealth;
+                amountCheck += amount;
+                if (amountCheck > script.health) {
+                    script.currentHealth = script.health;
                 }
                 else {
                     script.currentHealth = amountCheck;

@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 public class playerScript : MonoBehaviour
 {
-    public List<string> moves;
+    public playerAbilities abilities;
+    public string moves;
     public bool moveable = true;
     public float speed = 8f;
     public float health = 100f;
@@ -18,6 +19,7 @@ public class playerScript : MonoBehaviour
     void Start()
     {
         bounceBack = GetComponent<bounceBack>();
+        abilities = GetComponent<playerAbilities>();
         currentHealth = health;
     }
 
@@ -64,9 +66,14 @@ public class playerScript : MonoBehaviour
         {
             if (currentHealth/health < 1.1f) //TESTING PURPOSES ONLY
             {
-                moves.Add(await bounceBack.Activate());
+                moves = await bounceBack.Activate();
                 currentHealth += health * 0.4f;
             }
+        }
+
+        if (Input.GetAxisRaw("Fire1") == 1)
+        {
+            
         }
     }
 }
