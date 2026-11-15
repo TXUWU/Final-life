@@ -7,7 +7,6 @@ public class MoveSet : MonoBehaviour
     {
         IEnumerator executePounce()
         {
-            Debug.Log("Pounce Start");
             if (gameObject.CompareTag("Enemy"))
             {
                 Vector3 playerPlace = position;
@@ -18,7 +17,6 @@ public class MoveSet : MonoBehaviour
             {
 
             }
-            Debug.Log("Pounce End");
         }
         StartCoroutine(executePounce());
     }

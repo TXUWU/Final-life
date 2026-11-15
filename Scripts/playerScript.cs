@@ -1,18 +1,23 @@
 using UnityEngine;
 using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 public class playerScript : MonoBehaviour
 {
+    public List<string> moves;
     public bool moveable = true;
     public float speed = 8f;
     public float health = 100f;
     [SerializeField] private int incapacitationTime = 0;
 
     public float currentHealth;
+    private bounceBack bounceBack;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        bounceBack = GetComponent<bounceBack>();
         currentHealth = health;
     }
 
@@ -24,13 +29,12 @@ public class playerScript : MonoBehaviour
             if(other.TryGetComponent<enemyScript>(out enemyScript data))
             {
                 currentHealth -= data.enemyData.damage;
-                // What Enemy hit it?
             }
         }
     }
 
     // Update is called once per frame
-    void Update()
+    async void Update()
     {
         if (currentHealth <= 0)
         {
@@ -56,6 +60,13 @@ public class playerScript : MonoBehaviour
                 moveable = true;
             }
         }
-        // F is for Funny key
+        if (Input.GetKeyDown(KeyCode.F))  //BOUNCE BACK
+        {
+            if (currentHealth/health < 1.1f) //TESTING PURPOSES ONLY
+            {
+                moves.Add(await bounceBack.Activate());
+                currentHealth += health * 0.4f;
+            }
+        }
     }
 }

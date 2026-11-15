@@ -19,8 +19,7 @@ public class spawner : MonoBehaviour
             GameObject enemyInstance = Instantiate(enemyToClone, spawnPlace, Quaternion.identity);
             enemyScript target = enemyInstance.GetComponent<enemyScript>();
             target.player = player;
-
-            Debug.Log("Enemy Spawned!");
+            
             yield return new WaitForSeconds(timeDelay);
         }
     }
